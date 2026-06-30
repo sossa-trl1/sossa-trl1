@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bonjour, je suis étudiant en 1ère année de BTS SIO, option SISR, au Lycée des Petits-Champs. Passionné par l'infrastructure réseau, les systèmes serveurs et l'automatisation, je développe mes compétences techniques à travers divers projets personnels.
+
+Vous pouvez retrouver mes travaux et mon portfolio sur : https://portfoliosekou.netlify.app/
 
 <!--
 **sossa-trl1/sossa-trl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
