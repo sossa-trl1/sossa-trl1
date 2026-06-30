@@ -1,5 +1,5 @@
 ##
-Bonjour, je suis étudiant en 1ère année de BTS SIO, option SISR. Passionné par l'infrastructure réseau, la programmation, je développe mes compétences techniques à travers divers projets personnels.
+Bonjour, je suis étudiant en 1ère année de BTS SIO, option SISR. Passionné par l'infrastructure réseau et la programmation, je développe mes compétences techniques à travers divers projets personnels.
 
 Vous pouvez retrouver mes travaux et mon portfolio sur : https://portfoliosekou.netlify.app/
 
