@@ -1,5 +1,5 @@
 ##
-Bonjour, je suis étudiant en 1ère année de BTS SIO, option SISR, au Lycée des Petits-Champs. Passionné par l'infrastructure réseau, les systèmes serveurs et l'automatisation, je développe mes compétences techniques à travers divers projets personnels.
+Bonjour, je suis étudiant en 1ère année de BTS SIO, option SISR. Passionné par l'infrastructure réseau, la programmation, je développe mes compétences techniques à travers divers projets personnels.
 
 Vous pouvez retrouver mes travaux et mon portfolio sur : https://portfoliosekou.netlify.app/
 
